@@ -1,0 +1,12 @@
+{
+  "name": "dockering",
+  "version": "1.0.0",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
